@@ -149,12 +149,6 @@ While `noisecb()` could produce attractive texture, it also showed more obvious 
 
 `noisei()` produced a more natural-looking grain structure and avoided those obvious repeating patterns, so it became the basis of the final effect.
 
-## Viewing grain
-
-For the most reliable representation of fine grain, judge it at **100% zoom**.
-
-Very fine high-frequency texture can look different at arbitrary viewport zoom percentages because the image has to be resampled for display.
-
 ## Before and after previews
 
 These are supplied full-resolution examples. Click an image to view it at its original 2560 × 1440 size, and inspect at 100% zoom to judge fine grain.
