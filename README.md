@@ -151,7 +151,7 @@ While `noisecb()` could produce attractive texture, it also showed more obvious 
 
 ## Before and after previews
 
-These are supplied full-resolution examples. Click an image to view it at its original 2560 × 1440 size, and inspect at 100% zoom to judge fine grain.
+These are supplied full-resolution examples. Click an image to view it at its original 2560 × 1440 size, and inspect at 100% zoom to judge fine grain. These examples are pretty subtle - the effect can be pushed much farther than this.
 
 | Scene | Before | After |
 | --- | --- | --- |
